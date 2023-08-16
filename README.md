@@ -1,7 +1,7 @@
 # BlueLagoonResortBot
 ### Welcome to Blue Lagoon Bot:palm_tree:
 
-I have developed a chat bot that allows you to make a booking at our Blue Lagoon Resort. My chatbot will prompt the user for all their required information based on their specified perferences. This infomration will then be used to make a booking at our resort and generate a reference number which customers will use upon arrival to the resort. This makes the booking process quick and easy, saving our staff time to work on other important tasks while new bookings can still continue.
+I have developed a chat bot that allows you to make a booking at our Blue Lagoon Resort. My chatbot will prompt the user for all their required information based on their specified perferences. This information will then be used to make a booking at our resort and generate a reference number which customers will use upon arrival to the resort. This makes the booking process quick and easy, saving our staff time to work on other important tasks while new bookings can still continue.
 
 ### Instructions
 1. Start - To start a conversation with our chatbot type /start
